@@ -22,7 +22,7 @@ Marcar que el estudiante ya se presentó al cubículo (check-in) y cancelar rese
 
 
 
-¿Qué es Vue.js y qué hace en esta página?
+**¿Qué es Vue.js y qué hace en esta página?**
 
 Vue.js es un framework de JavaScript que facilita construir interfaces interactivas y reactivas. En esta página, Vue mantiene sincronizados los datos y la vista: al escribir el nombre del estudiante o elegir un cubículo de la Biblioteca UGB, se actualizan las variables reactivas; al registrar una reserva, la lista se actualiza automáticamente; y al confirmar la llegada del estudiante, la tarjeta cambia de estado sin recargar la página.
 
